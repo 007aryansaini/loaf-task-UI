@@ -141,7 +141,7 @@ Watch the application in action: [YouTube Demo](https://www.youtube.com/watch?v=
 ### Installation
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/007aryansaini/loaf-task-UI.git
 cd front-end
 
 # Install dependencies
